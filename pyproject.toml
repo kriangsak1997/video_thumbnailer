@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "CATTOKUDASAI"
+version = "0.0.1"
+description = "CATTO SIDE PROJECT"
+authors = ["CattoKudasai <t.kriangsak466@gmail@gmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+
